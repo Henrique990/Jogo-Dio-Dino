@@ -1,1 +1,3 @@
 # Jogo-Dio-Dino
+
+Este jogo sera criado com HTML, CSS e JS...
