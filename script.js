@@ -29,13 +29,13 @@ function jump() {
                     position -= 20;
                     dino.style.bottom = position + 'px';
                 }
-            },20);
+            },25);
         }else {
             //Subindo
             position += 20;
             dino.style.bottom = position + 'px';
         }
-    },20);
+    },10   );
 }
 
 function createCactus() {
